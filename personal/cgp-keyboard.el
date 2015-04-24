@@ -9,4 +9,5 @@
 (global-set-key [(control w)] 'backward-kill-word)
 (global-set-key [(super w)] 'kill-region)
 
+(provide 'cgp-visual)
 ;;; cgp-keyboard.el ends here
